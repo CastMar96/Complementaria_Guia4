@@ -1,0 +1,37 @@
+body{
+    background-color:#bba9a9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px ;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+    color:white;
+}
+h3{
+    color:white;
+}
+div.contenido{
+    margin: 0 auto  ; /*centrando la caja*/
+    width: 80%;
+}
+.cuento{
+    color:rgb(0, 0, 0);
+    text-align: justify;
+}
+.parrafo1{
+    font-family:Arial;
+}
+table{
+    width: 100%;
+    border: 1px solid #000;
+    background-color:rgb(255, 255, 255);
+}
+th,td{
+    text-align: center;
+   vertical-align: center;
+   border: 1px solid #000;
+}
